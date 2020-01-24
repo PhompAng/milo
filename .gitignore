@@ -1,0 +1,10 @@
+
+.idea/
+
+venv/
+
+.DS_Store
+
+.env
+
+2020-01-24.txt
