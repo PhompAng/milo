@@ -1,2 +1,2 @@
-requests==2.22.0
+requests==2.31.0
 python-miio==0.4.8
